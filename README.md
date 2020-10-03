@@ -26,4 +26,5 @@ The origial dataset can be found here: [UCI Data](http://archive.ics.uci.edu/ml/
 
 <img align="left" width="500" height="500" src="https://github.com/erikhren/Determining-Shoppers-Online-Purchasing-Intent/blob/master/Data_Process_Diagram.jpeg">
 <br>
-See 1_Data_Report.ipynb for the final report notebook with explained steps and reccommendations.
+<br>
+**See 1_Data_Report.ipynb for the final report notebook with explained steps and reccommendations.**
